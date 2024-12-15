@@ -1,5 +1,7 @@
 # Online Apartment Sales System
 
+![apartment](https://github.com/user-attachments/assets/416fb5f1-66d1-4d0b-86e3-44350cbca960)
+
 Welcome to the **Online Apartment Sales System**! This web application enables users to manage editors, users, and perform CRUD operations efficiently. Built with a robust backend in PHP and a simple yet responsive frontend in HTML and CSS, this system provides an intuitive experience for managing users and editors.
 
 ---
